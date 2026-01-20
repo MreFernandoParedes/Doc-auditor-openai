@@ -1,0 +1,5 @@
+streamlit
+streamlit-agraph
+pandas
+openai
+python-dotenv
